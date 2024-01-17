@@ -1,0 +1,17 @@
+============================
+Running Test 8.....
+Students' information is...
+Student ID: 1	Total hall point: 35	Status: 0
+Student ID: 2	Total hall point: 45	Status: 0
+Student ID: 10	Total hall point: 25	Status: 0
+Student ID: 11	Total hall point: 27	Status: 0
+Student ID: 12	Total hall point: 42	Status: 0
+
+The tree structure (key, length) is...
+	(45,1)
+		(42,1)
+(35,1)
+		(27,1)
+	(25,1)
+Test Case 8 Completed
+============================

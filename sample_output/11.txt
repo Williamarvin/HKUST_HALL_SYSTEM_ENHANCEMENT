@@ -1,0 +1,27 @@
+============================
+Running Test 11.....
+Students' information is...
+Student ID: 1	Total hall point: 35	Status: 0
+Student ID: 2	Total hall point: 45	Status: 0
+Student ID: 10	Total hall point: 25	Status: 0
+Student ID: 11	Total hall point: 25	Status: 0
+Student ID: 12	Total hall point: 24	Status: 0
+
+The tree structure (key, length) is...
+	(45,1)
+			(35,1)
+		(25,2)
+(24,1)
+kthLargest(2)
+(35,1)
+kthLargest(1)
+(45,1)
+		(35,1)
+	(25,2)
+kthLargest(3)
+	(35,1)
+(25,2)
+kthLargest(9999)
+It is nullptr
+Test Case 11 Completed
+============================

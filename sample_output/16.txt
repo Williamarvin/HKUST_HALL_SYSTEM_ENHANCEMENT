@@ -1,0 +1,15 @@
+============================
+Running Test 16.....
+table[0] = 
+table[1] = Student ID: 1	Total hall point: 35	Status: 0
+ 
+table[2] = 
+table[3] = 
+table[4] = 
+table[5] = 
+table[6] = 
+table[7] = 
+table[8] = 
+table[9] = 
+Test 16 Completed
+============================

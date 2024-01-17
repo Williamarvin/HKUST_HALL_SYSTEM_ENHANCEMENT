@@ -1,0 +1,12 @@
+============================
+Running Test 19.....
+Adding 3 students
+	(45,1)
+(35,1)
+	(25,1)
+Removing students with ID 1 and 3
+(45,1)
+Removing a non-existing student
+(45,1)
+Test 19 Completed
+============================

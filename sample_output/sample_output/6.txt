@@ -1,0 +1,6 @@
+============================
+Running Test Case 6.....
+The tree structure (key, length) is...
+(40,3)
+Test Case 6 Completed
+============================

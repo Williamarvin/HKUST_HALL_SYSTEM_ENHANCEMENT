@@ -1,0 +1,29 @@
+============================
+Running Test 12.....
+Student information is...
+Student ID: 1	Total hall point: 35	Status: 0
+Student ID: 2	Total hall point: 45	Status: 0
+Student ID: 10	Total hall point: 25	Status: 0
+Student ID: 11	Total hall point: 25	Status: 0
+Student ID: 12	Total hall point: 24	Status: 0
+
+Before delete s3...
+	(45,1)
+			(35,1)
+		(25,2)
+(24,1)
+After delete s3...
+	(45,1)
+			(35,1)
+		(25,1)
+(24,1)
+After delete s2...
+		(35,1)
+	(25,1)
+(24,1)
+Delete s2 once again ...
+		(35,1)
+	(25,1)
+(24,1)
+Test Case 12 Completed
+============================

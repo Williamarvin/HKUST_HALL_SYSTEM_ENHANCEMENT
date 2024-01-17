@@ -1,0 +1,51 @@
+============================
+Running Test 21.....
+Before allocating hall....
+		(47,2)
+	(45,1)
+		(42,10)
+			(40,1)
+(35,1)
+		(27,1)
+	(25,1)
+After allocating hall....
+	(40,1)
+(35,1)
+		(27,1)
+	(25,1)
+Result list before accepting offer: 
+Student ID: 2	Total hall point: 45	Status: 1
+ Student ID: 5	Total hall point: 42	Status: 1
+ Student ID: 6	Total hall point: 47	Status: 1
+ Student ID: 7	Total hall point: 42	Status: 1
+ Student ID: 8	Total hall point: 42	Status: 1
+ Student ID: 9	Total hall point: 47	Status: 1
+ Student ID: 10	Total hall point: 42	Status: 1
+ Student ID: 12	Total hall point: 42	Status: 1
+ Student ID: 13	Total hall point: 42	Status: 1
+ Student ID: 14	Total hall point: 42	Status: 1
+ Student ID: 15	Total hall point: 42	Status: 1
+ Student ID: 16	Total hall point: 42	Status: 1
+ Student ID: 17	Total hall point: 42	Status: 1
+ Result list after accepting offer: 
+Student list: 
+Student ID: 1	Total hall point: 35	Status: 0
+Student ID: 2	Total hall point: 45	Status: 2
+Student ID: 3	Total hall point: 25	Status: 0
+Student ID: 4	Total hall point: 27	Status: 0
+Student ID: 5	Total hall point: 42	Status: 2
+Student ID: 6	Total hall point: 47	Status: 2
+Student ID: 7	Total hall point: 42	Status: 2
+Student ID: 8	Total hall point: 42	Status: 2
+Student ID: 9	Total hall point: 47	Status: 2
+Student ID: 10	Total hall point: 42	Status: 2
+Student ID: 11	Total hall point: 40	Status: 0
+Student ID: 12	Total hall point: 42	Status: 2
+Student ID: 13	Total hall point: 42	Status: 2
+Student ID: 14	Total hall point: 42	Status: 2
+Student ID: 15	Total hall point: 42	Status: 2
+Student ID: 16	Total hall point: 42	Status: 2
+Student ID: 17	Total hall point: 42	Status: 2
+Number of hall left: 0
+Test 21 Completed
+============================

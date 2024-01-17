@@ -1,0 +1,110 @@
+============================
+Running Test 20.....
+Predict the hall allocation...
+Student: Student ID: 1	Total hall point: 35	Status: 0
+Prediction: false
+Student: Student ID: 2	Total hall point: 45	Status: 0
+Prediction: true
+Student: Student ID: 3	Total hall point: 25	Status: 0
+Prediction: false
+Student: Student ID: 4	Total hall point: 27	Status: 0
+Prediction: false
+Student: Student ID: 5	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 6	Total hall point: 47	Status: 0
+Prediction: true
+Student: Student ID: 7	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 8	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 9	Total hall point: 47	Status: 0
+Prediction: true
+Student: Student ID: 10	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 11	Total hall point: 40	Status: 0
+Prediction: false
+Student: Student ID: 12	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 13	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 14	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 15	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 16	Total hall point: 42	Status: 0
+Prediction: true
+Student: Student ID: 17	Total hall point: 42	Status: 0
+Prediction: true
+Allocate hall now...
+The actual result...
+Student: Student ID: 1	Total hall point: 35	Status: 0
+Got offer: false
+Student: Student ID: 2	Total hall point: 45	Status: 1
+Got offer: true
+Student: Student ID: 3	Total hall point: 25	Status: 0
+Got offer: false
+Student: Student ID: 4	Total hall point: 27	Status: 0
+Got offer: false
+Student: Student ID: 5	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 6	Total hall point: 47	Status: 1
+Got offer: true
+Student: Student ID: 7	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 8	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 9	Total hall point: 47	Status: 1
+Got offer: true
+Student: Student ID: 10	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 11	Total hall point: 40	Status: 0
+Got offer: false
+Student: Student ID: 12	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 13	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 14	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 15	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 16	Total hall point: 42	Status: 1
+Got offer: true
+Student: Student ID: 17	Total hall point: 42	Status: 1
+Got offer: true
+Predict again after hall allocation...
+Student: Student ID: 1	Total hall point: 35	Status: 0
+Prediction: false
+Student: Student ID: 2	Total hall point: 45	Status: 1
+Prediction: false
+Student: Student ID: 3	Total hall point: 25	Status: 0
+Prediction: false
+Student: Student ID: 4	Total hall point: 27	Status: 0
+Prediction: false
+Student: Student ID: 5	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 6	Total hall point: 47	Status: 1
+Prediction: false
+Student: Student ID: 7	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 8	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 9	Total hall point: 47	Status: 1
+Prediction: false
+Student: Student ID: 10	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 11	Total hall point: 40	Status: 0
+Prediction: false
+Student: Student ID: 12	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 13	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 14	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 15	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 16	Total hall point: 42	Status: 1
+Prediction: false
+Student: Student ID: 17	Total hall point: 42	Status: 1
+Prediction: false
+Test 20 Completed
+============================
